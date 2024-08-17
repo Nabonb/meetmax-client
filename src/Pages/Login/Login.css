@@ -1,0 +1,13 @@
+.bg-default-100 {
+    background-color: white;    
+}
+.text-foreground{
+    color: #4E5D78
+}
+.text-medium{
+    font-size: 16px;
+    font-weight: 500;
+}
+.text-xs{
+  font-size: 16px;
+}

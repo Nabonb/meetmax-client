@@ -1,0 +1,25 @@
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+  }
+  
+input[type="date"]::-moz-focus-inner {
+    border: 0;
+  }
+  
+input[type="date"]::-moz-calendar-picker-indicator {
+    display: none;
+  }
+.bg-default-100 {
+    background-color: white;    
+}
+.text-foreground{
+    color: #4E5D78
+}
+.text-medium{
+    font-size: 16px;
+    font-weight: 500;
+}
+.text-xs{
+  font-size: 16px;
+}
